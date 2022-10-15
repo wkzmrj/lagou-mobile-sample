@@ -1,0 +1,1 @@
+"use strict";(self["webpackChunklagou_mobile"]=self["webpackChunklagou_mobile"]||[]).push([[468],{9166:function(e,r,u){u.r(r),u.d(r,{default:function(){return i}});var a=function(){var e=this,r=e._self._c;return r("div",{staticClass:"error-page"},[e._v("找不到页面")])},l=[],n={name:"ErrorPage"},t=n,s=u(1001),o=(0,s.Z)(t,a,l,!1,null,"e558a6f4",null),i=o.exports}}]);
